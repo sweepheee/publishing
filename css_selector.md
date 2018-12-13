@@ -5,7 +5,7 @@ CSS 선택자와 선택자의 우선순위
 
 CSS 속성으로 선택하기
 
->>> [attribute]
+> [attribute]
 
 ```
 
