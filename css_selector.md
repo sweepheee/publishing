@@ -51,8 +51,7 @@ CSS 속성으로 선택하기
 
 <br><br>
 link 선택자
-
-
+------
 ```
 link -> visited -> hover -> active -> focus 순서대로 하는게 좋다.(우선순위 상관있음)
 
